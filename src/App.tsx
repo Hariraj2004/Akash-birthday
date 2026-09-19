@@ -41,8 +41,134 @@ const memories: Memory[] = [
   {
     src: '/images/WhatsApp_Image_2026-09-19_at_7.25.58_AM.jpeg',
     alt: 'Akash on a peaceful green road',
-    className: 'memory memory-wide',
+    className: 'memory memory-tall',
     label: 'Keep moving forward'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.43_AM.jpeg',
+    alt: 'Akash striking a pose in front of the Petronas Twin Towers',
+    className: 'memory memory-tall',
+    label: 'Twin towers summit'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.43_AM_1.jpeg',
+    alt: 'Akash smiling with a city skyline backdrop',
+    className: 'memory memory-tall',
+    label: 'Skyline smiles'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.44_AM.jpeg',
+    alt: 'Akash with colleagues and friends in work gear',
+    className: 'memory memory-tall',
+    label: 'Crew brotherhood'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.47_AM.jpeg',
+    alt: 'Akash posing with a peace sign at the fountain in front of Petronas Towers',
+    className: 'memory memory-tall',
+    label: 'City lights & peace'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.48_AM.jpeg',
+    alt: 'Akash enjoying the city view',
+    className: 'memory memory-tall',
+    label: 'Higher perspective'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.48_AM_1.jpeg',
+    alt: 'Akash with friends at the colorful Batu Caves stairs',
+    className: 'memory memory-tall',
+    label: 'Squad adventures'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.49_AM.jpeg',
+    alt: 'Akash visiting the Batu Caves temple grounds',
+    className: 'memory memory-tall',
+    label: 'Sacred steps'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.49_AM_1.jpeg',
+    alt: 'Akash in front of the golden Lord Murugan statue at Batu Caves',
+    className: 'memory memory-tall',
+    label: 'Golden blessings'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.50_AM_1.jpeg',
+    alt: 'Akash at the vibrant rainbow stairs of Batu Caves',
+    className: 'memory memory-tall',
+    label: 'Vibrant colors'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.53_AM.jpeg',
+    alt: 'Akash sharing a candid laugh outdoors',
+    className: 'memory memory-tall',
+    label: 'Endless laughter'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.54_AM.jpeg',
+    alt: 'Akash enjoying a sunny day outdoors',
+    className: 'memory memory-tall',
+    label: 'Sunny dispositions'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.54_AM_1.jpeg',
+    alt: 'Akash smiling during a hangout with friends',
+    className: 'memory memory-tall',
+    label: 'Unfiltered smiles'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.57_AM.jpeg',
+    alt: 'Akash taking in scenic vistas during travels',
+    className: 'memory memory-tall',
+    label: 'Chasing horizons'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.57_AM_1.jpeg',
+    alt: 'Akash enjoying special travel moments',
+    className: 'memory memory-tall',
+    label: 'Journey stories'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.58_AM.jpeg',
+    alt: 'Akash holding a red rose with a warm expression',
+    className: 'memory memory-tall',
+    label: 'Grace & rose'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.24.59_AM.jpeg',
+    alt: 'Akash celebrating with good company',
+    className: 'memory memory-tall',
+    label: 'Good times crew'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.25.01_AM.jpeg',
+    alt: 'Akash looking sharp in a denim shirt',
+    className: 'memory memory-tall',
+    label: 'Sharp & effortless'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.25.03_AM.jpeg',
+    alt: 'Akash on a sunlit stroll',
+    className: 'memory memory-tall',
+    label: 'Golden hour'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.25.04_AM.jpeg',
+    alt: 'Akash dining and posing happily at a restaurant',
+    className: 'memory memory-tall',
+    label: 'Celebration feast'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.25.08_AM.jpeg',
+    alt: 'Akash enjoying the festivities',
+    className: 'memory memory-tall',
+    label: 'Festival energy'
+  },
+  {
+    src: '/images/WhatsApp_Image_2026-09-19_at_8.25.08_AM_1.jpeg',
+    alt: 'Akash posing in a pink polo in the park',
+    className: 'memory memory-tall',
+    label: 'Park memories'
   }
 ];
 
