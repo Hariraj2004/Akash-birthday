@@ -174,9 +174,6 @@ export default function App() {
           </p>
           <div className="mx-auto my-10 h-px w-20 bg-primary/60" />
           <p className="font-display text-2xl italic">Stay golden, Akash.</p>
-          <p className="mt-3 font-mono text-[10px] uppercase tracking-[0.3em] text-background/45">
-            With love, always
-          </p>
         </div>
       </footer>
     </main>

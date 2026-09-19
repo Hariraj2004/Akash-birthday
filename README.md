@@ -1,6 +1,6 @@
 # Akash Birthday Celebration Website
 
-A modern, responsive birthday celebration website built with React, Vite, and custom typography & styling, created with Lovable and downloaded locally.
+A modern, responsive birthday celebration website built with React, Vite, and custom typography & styling.
 
 ## Project Structure
 
@@ -45,6 +45,3 @@ xdg-open preview.html
 firefox preview.html
 ```
 
-## Original Project Details
-- **Title**: Happy Birthday Akash | A Celebration of You
-- **Lovable Project ID**: `c62c29ac-4022-4499-ae7e-8ee4e01ea3ba`
